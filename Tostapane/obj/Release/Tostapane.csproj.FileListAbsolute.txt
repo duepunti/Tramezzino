@@ -1,0 +1,8 @@
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\bin\Release\Tostapane.exe.config
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\bin\Release\Tostapane.exe
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\bin\Release\Tostapane.pdb
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\obj\Release\Tostapane.Form1.resources
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\obj\Release\Tostapane.Properties.Resources.resources
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\obj\Release\Tostapane.csproj.GenerateResource.Cache
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\obj\Release\Tostapane.exe
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\obj\Release\Tostapane.pdb

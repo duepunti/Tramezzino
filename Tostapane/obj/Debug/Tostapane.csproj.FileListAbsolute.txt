@@ -1,0 +1,9 @@
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\bin\Debug\Tostapane.exe.config
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\bin\Debug\Tostapane.exe
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\bin\Debug\Tostapane.pdb
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\obj\Debug\Tostapane.csprojResolveAssemblyReference.cache
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\obj\Debug\Tostapane.Form1.resources
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\obj\Debug\Tostapane.Properties.Resources.resources
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\obj\Debug\Tostapane.csproj.GenerateResource.Cache
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\obj\Debug\Tostapane.exe
+c:\user\documents\visual studio 2015\Projects\Tostapane\Tostapane\obj\Debug\Tostapane.pdb
